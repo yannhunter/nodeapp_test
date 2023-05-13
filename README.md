@@ -1,4 +1,4 @@
-# nodeapp_test
+# How to Push docker image to Docker Hub using Jenkins Pipeline
 we will learn about Jenkins pipeline to deploy docker image. We will create 5 stage Jenkins Pipeline to Automate Docker Build and Push to Docker Hub , 
 the steps involve in Jenkins pipeline to build docker image are listed below
 
